@@ -1,0 +1,13 @@
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab1_Serialization\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
